@@ -11,8 +11,8 @@ To run locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/vinodjangid07/file-transfer-app-celebal.git
-    cd file-transfer-app-celebal
+    git clone https://github.com/vinitisready/ShareWave.git
+    cd ShareWave
     ```
 
 2. **Install dependencies for the backend:**
